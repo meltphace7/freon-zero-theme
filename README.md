@@ -1,4 +1,4 @@
-A custom shopify theme
+Freon Zero is a custom shopify theme
 
 
 

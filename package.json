@@ -1,5 +1,5 @@
 {
-  "name": "elizabeth",
+  "name": "freon-zero",
   "version": "1.0.0",
   "description": "custom shopify theme",
   "main": "index.js",
@@ -7,8 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx tailwindcss -i ./src/tailwind.css -o ./assets/application.css --watch "
   },
-  "author": "",
+  "author": "brock dallman",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meltphace7/Shopify-course-prj-brd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meltphace7/Shopify-course-prj-brd/issues"
+  },
+  "homepage": "https://github.com/meltphace7/Shopify-course-prj-brd#readme",
   "devDependencies": {
     "tailwindcss": "^3.3.3"
   }
