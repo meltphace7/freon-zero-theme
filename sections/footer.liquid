@@ -1,0 +1,10 @@
+<footer class="w-full h-20 bg-black text-white flex items-center justify between">
+    <h1 class="ml-5">
+    {{ shop.name }}
+    </h1>
+    <ul class="flex items-center justify-between ml-auto mr-5">
+        {% for link in  linklists.footer.links %}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+    </ul>
+</footer>
