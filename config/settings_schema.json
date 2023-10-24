@@ -17,5 +17,22 @@
         "default": "helvetica_n4"
       }
     ]
+  },
+  {
+    "name": "Colors",
+    "settings": [
+      {
+        "type": "color",
+        "id": "background_color",
+        "label": "Background Color",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "text-color",
+        "label": "Text color",
+        "default": "#111111"
+      }
+    ]
   }
 ]
